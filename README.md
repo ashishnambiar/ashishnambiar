@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ashishnambiar
-- 👀 I’m interested in App and Web Development 
-- 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on 
+- I’m interested in Mobile App Development and Web Development 
+- I'm a Flutter developer
 - 📫 Reach me on my gmail => ashishleo1998@gmail.com
