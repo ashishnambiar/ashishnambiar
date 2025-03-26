@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashishnambiar
+- 👋 Hi, I’m Ashish Nambiar
 - I’m interested in Mobile App Development and Web Development 
 - I'm a Flutter developer
 - 📫 Reach me on my gmail => ashishleo1998@gmail.com
